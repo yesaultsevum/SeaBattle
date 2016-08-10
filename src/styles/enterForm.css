@@ -1,0 +1,37 @@
+.enter-form{
+	width: 50%;
+  margin: 0 auto ;
+  border: 1px solid;
+  text-align: center;
+  padding: 1em;
+  border-radius: 5px;
+}
+.enter-form label{
+	font-size: 1em;
+}
+.enter-form input{
+	width: 94%;
+	height: 2em;
+	margin: 1em;
+}
+.enter-form--enter{
+	width: 30%;
+	font-size: 1.5em;
+	padding: 0.4em;
+	border-radius: 5px;
+	border: 1px solid;
+	display: inline-block;
+	margin-top: 1em;
+	color: #000;
+	text-decoration: none;
+}
+.back{
+	position: absolute;
+	font-size: 1em;
+	padding: 1em 2em;
+	border: 1px solid;
+	border-radius: 15px;
+	left: -15px;
+	text-decoration: none;
+	color: #000;
+}

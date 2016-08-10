@@ -1,0 +1,25 @@
+.main-menu{
+	width: 30%;
+    margin: 0 auto;
+}
+.main-menu--list{
+	list-style: none;
+    height: 100%;
+    padding: 10%;
+    box-sizing: border-box;
+    margin: 0;
+
+}
+.main-menu--list li{
+	display: block;
+    text-align: center;
+    font-size: 1em;
+	border: 1px solid;
+	border-radius: 10px;
+	margin-bottom: 15%;
+	padding: 1em 0;
+}
+.main-menu--list li a{
+	text-decoration: none;
+	color: #000;
+}
